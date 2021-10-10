@@ -38,7 +38,7 @@ dependencies:
     - tensorboard-plugin-profile==2.4.0 # profiling plugin for TensorBoard
     - tensorboard==2.4.1 # TensorFlow's visualization toolkit
     - tensorflow-addons==0.12.1 # used only in chapter 16 for a seq2seq impl.
-    - tensorflow-datasets==4.3.0 # datasets repository, ready to use
+    - tensorflow-datasets==3.0.0 # datasets repository, ready to use
     - tensorflow-hub==0.9.0 # trained ML models repository, ready to use
     - tensorflow-probability==0.12.1 # Optional. Probability/Stats lib.
     - tensorflow-serving-api==2.4.1 # or tensorflow-serving-api-gpu if gpu
