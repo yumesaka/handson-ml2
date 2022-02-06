@@ -37,7 +37,7 @@
 ### 코드를 실행하지 않고 노트북을 간단히 둘러 보고 싶나요?
 
 [주피터 노트북 뷰어](https://nbviewer.jupyter.org/github/rickiepark/handson-ml2/blob/master/index.ipynb):
-<a href="https://nbviewer.jupyter.org/github/rickiepark/handson-ml2/blob/master/index.ipynb"><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>로 이 저장소의 노트북을 볼 수 있습니다.
+<a href="https://nbviewer.jupyter.org/github/rickiepark/handson-ml2/blob/master/index.ipynb"><img src="https://jupyter.org/assets/share.png" width="150" /></a>로 이 저장소의 노트북을 볼 수 있습니다.
 
 _노트_: [깃허브의 노트북 뷰어](index.ipynb)를 사용할 수도 있지만 느리고 수학 공식을 완전하게 표시하지 못합니다.
 
